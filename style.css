@@ -1,0 +1,22 @@
+h1 {
+  color: blue;
+  font-style: italic;
+  font-size: 3em
+  }
+p {
+  color: violet;
+  font-family:fantasy;
+  font-size: 2em
+}
+body {
+  background-color: lightyellow
+  }
+  li {
+    transition: 0.6s ease;
+    }
+    li:hover { font-size: 2em;
+}
+div.preguntas {
+  float: left;
+  width: 50%;
+  }
