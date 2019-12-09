@@ -8,15 +8,13 @@
 
 
       }
-      div.Students {
-        float: left;
-        width: 50%;
-        }
+      div.xy {
+        display: flex;
+        text-align: center;
+        margin: 100px
       }
 
-    }
-    div.LSE {
-      float: right;
-      width: 25%;
-      }
-    }
+      h4 {
+        align-content: center;
+
+        }
